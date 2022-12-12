@@ -1,0 +1,1 @@
+source ./d_env/bin/activate
